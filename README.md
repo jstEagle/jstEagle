@@ -1,4 +1,3 @@
-`jstEagle / README.md`
 
 # Hi, I'm Justus 👋
 
