@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "title": "GitHub Profile",
+  "description": "The profile README repository for my GitHub account, used to present current projects and personal links.",
+  "tags": [
+    "GitHub",
+    "Markdown"
+  ],
+  "featured": false,
+  "order": 190,
+  "links": {
+    "demo": "https://github.com/jstEagle",
+    "repo": "https://github.com/jstEagle/jstEagle"
+  },
+  "images": []
+}
