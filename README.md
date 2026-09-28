@@ -1,166 +1,158 @@
-# Hi, I'm Justus 👋
+# Hey, I'm Justus 👋
 
-Builder working across AI tools, Rust systems, TypeScript apps, agent worlds, and market infrastructure.
+Building AI tools, agent worlds, and small experiments.
 
-Lately I've been building visual code review, coding-agent orchestration, agent benchmarks, and a lot of small experiments that turn code, music, and everyday workflows into something interactive.
+Rust · TypeScript · Python · Swift
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=111111)
-![CLI](https://img.shields.io/badge/CLI-111111?style=flat&logo=gnubash&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-2E7D32?style=flat)
+### Currently building
 
-> I like projects that turn vague, messy workflows into tools you can run, inspect, test, and improve.
+- ⚔️ [Colosseum](https://github.com/jstEagle/Colosseum) — AI agents fighting in a terminal arena
+- 🔍 [Diffraction](https://www.diffraction.sh/) 🔒 — visual review for UI changes
+- 🎼 [Symphony](https://github.com/jstEagle/Symphony) — one conductor, many coding agents
+- 🧪 [Aberration-bench](https://github.com/Diffraction-AI/Aberration-bench) — a diagnostic benchmark for AI UI review
+- 🛠️ [Codex Showcase](https://github.com/jstEagle/Codex-showcase) — project stories built with Codex
+- 🐟 [Fishtank](https://github.com/jstEagle/fishtank) — one shared world for AI agents
 
-## Start Here
+### More projects
 
-- ⚔️ [Colosseum](https://github.com/jstEagle/Colosseum) - a terminal game and benchmark where AI agents hunt each other's processes in a referee-controlled arena, with API and native CLI harnesses.
-- 🔍 [Diffraction](https://www.diffraction.sh/) - automated visual review and QA for UI changes, with browser evidence and a GitHub review workflow. Private source.
-- 🎼 [Symphony](https://github.com/jstEagle/Symphony) - local-first orchestration across native coding agents, with a conductor, worker trees, durable workflows, and a shared chat surface.
-- 🧪 [Aberration-bench](https://github.com/Diffraction-AI/Aberration-bench) - an open benchmark for autonomous UI review, visual regressions, interaction bugs, and reproducible browser evidence. Currently a diagnostic benchmark.
-- 🛠️ [Codex Showcase](https://github.com/jstEagle/Codex-showcase) - a CLI and gallery for publishing privacy-reviewed Codex project stories, build metrics, and artifacts.
-- 🐟 [Fishtank](https://github.com/jstEagle/fishtank) - a hosted singleton-world simulation where agents, viewers, and tools share one continuous runtime.
-
-## Projects
-
-Public projects link to their repositories. Private and local projects are marked below; some are prototypes or experiments.
-
-### AI, agents, and developer tools
-
-- [Colosseum](https://github.com/jstEagle/Colosseum) - process-combat experiments for language-model agents, with match ledgers, replays, and rankings. **Colosseum Web** is its companion landing page, leaderboard, and documentation site (private source).
-- **Diffraction** (private) - UI review and QA tied to code changes. Its four demo apps cover banking, commerce, PDF editing, and support workflows for review scenarios.
-- [Aberration-bench](https://github.com/Diffraction-AI/Aberration-bench) - compare complete UI-review systems on findings, false alarms, browser coverage, time, and cost.
-- [Symphony](https://github.com/jstEagle/Symphony) - cross-harness coordination for Codex, Claude Code, Cursor, OpenCode, Pi, and ACP agents.
-- [ClosedLoop](https://github.com/jstEagle/ClosedLoop) - an early software-maintenance system connecting telemetry, diagnosis, repair workflows, pull requests, and deployment verification.
-- **Darkstar** (private prototype) - a code-review workspace and event-driven merge queue, currently operating in shadow mode.
-- [Locked In](https://github.com/jstEagle/lockedin) - a keyboard-first workspace for agents, delivery, communication, and business signals, with dockable panels and explicit connector states.
-- [Codex Showcase](https://github.com/jstEagle/Codex-showcase) - export cleaned project conversations and build metrics, review the bundle, and publish a project story in a gallery.
-- [Codex Ambassador / AI 101](https://github.com/jstEagle/CodexAmbassador) - community-event tools, a companion website, and terminal courses covering Git, LLMs, and an interactive story.
-- [Agents](https://github.com/jstEagle/Agents) - my selected collection of locally maintained agent skills and personal adaptations for design, writing, research, and development workflows.
-- [Token Max](https://github.com/jstEagle/tokenmaxxx) - an interactive AI-subscription comparison tool that builds a shortlist from a budget and work profile.
-- [Idea Distillery](https://github.com/jstEagle/idea-distillery) - local call capture and Markdown planning output for turning spoken ideas into implementation-ready notes.
-- [Sisyphus](https://github.com/jstEagle/Sisyphus) - a local Chrome tab shelf with restore, duplicate cleanup, and explicit control over automation.
-- **Flow Key** (private) - a native macOS writing assistant that works at the OS input layer.
-- **Saelor** (private) - organization-specific agent skills, catalogs, and an OAuth MCP server.
-
-### Simulations, graphics, music, and creative experiments
-
-- [Fishtank](https://github.com/jstEagle/fishtank) - one continuous shared world for agents, viewers, and tools.
-- **Slop DS** (private, experimental) - an independently implemented Rust Nintendo 3DS emulator with a DS-mode path, deterministic probes, and test harnesses. Retail compatibility remains a work in progress.
-- [wordsnstuff](https://github.com/jstEagle/wordsnstuff) - a TypeScript and WebGL2 library for real-time ASCII, dither, halftone, fluid, and CRT image effects.
-- [In-Between](https://github.com/jstEagle/in-between) - a seeded generative-web engine for surreal but destination-aware pages, media, links, and layouts.
-- [Synthcave](https://github.com/jstEagle/synthcave) - a browser synth sequencer for layering, saving, importing, and playing musical sketches.
-- **Marble Melody** (private) - turns an uploaded MP3 into a browser-based rolling marble note machine.
-- [The Library](https://github.com/jstEagle/the-library) - AI-generated books stored as Markdown, with resumable outline and chapter generation and a browsable repository library.
-- [Brainrot Shorts Generator](https://github.com/jstEagle/Brainrot-Shorts-Generator) - physics-based short-video generation with bouncing balls, orbital mechanics, chain reactions, and pendulum waves.
-- **Music Constellations / Spotify Galaxy** (private) - an interactive galaxy that clusters songs from a Spotify library.
-- **Fluff Lords** (private) - AI-generated royal pet portraits with digital-download and print checkout flows.
-- **Mono** (private) - 35 independent terminal tools, browser toys, and developer experiments; the full list is below.
-
-### Trading, crypto, and market systems
-
-- [Daedalus Labs / Janus](https://github.com/jstEagle/daedalus-labs) - a Rust-first trading research monorepo with a deterministic OHLCV backtesting engine, CLI, service API, and ML experiments.
-- **Rebalancer** (private) - Solana Meteora DLMM scanning, scoring, paper trading, dashboards, and worker infrastructure.
-- **Leto** (private, devnet MVP) - Solana checkout, a payment ledger, and a TypeScript SDK with verified on-chain receipts.
-- [Coindle](https://github.com/jstEagle/Coindle) - a daily historical crypto trading challenge with a hidden market, candlestick charts, three trading rounds, and a final coin reveal.
-- [ORE Bot](https://github.com/jstEagle/Ore-bot) - a Python allocation experiment for the ORE mining game, using fee-aware expected-value calculations.
-- Earlier public trading experiments: [DeFi Dolphin](https://github.com/jstEagle/defi-dolphin), [DeFi Tuna airdrop checker](https://github.com/jstEagle/defi-tuna-trumped-checker), [Star Atlas market-making bot](https://github.com/jstEagle/staratlas-mm-bot), and [Solana trading bot](https://github.com/jstEagle/sol-trading-bot).
-
-### Everyday products, information, and applied AI
-
-- **Lively** (private) - a life-operations system with web, mobile, API, orchestration, and agent-runtime surfaces.
-- **Personal News** (private) - personal journalism with source tracking, scanning workers, daily digests, generated articles, audio, and Briefing Bubbles.
-- **Nestor** (private prototype) - an explainable GP inbox and results-review tool, built around synthetic data, evidence snippets, follow-up commitments, and clinician review.
-- **Orange Card** (private source) - a family recipe book with recipe-card extraction, search, scaling, contributor workflows, and agent-friendly APIs.
-- **Cluttr** (private) - household resale workflows: scan items, estimate value, arrange pickup, and connect customers with local resellers.
-- **Real-estate video pipeline** (private client project) - property photos to assembled videos, with media generation, job intake, a control API, and a progress dashboard.
-- **Rhythm Judge** (local prototype) - an iPhone-first rhythmic-gymnastics video review app exploring evidence-linked score estimates and practical feedback.
-- **Secondtime / ‖Time** (private prototype) - a shared-subscription product concept with three app slots, pooled AI credits, and an interactive glass-block interface.
-- **A Level Maths** (private source) - a Cambridge mathematics workspace with notes, graphing, flashcards, a planner, and an AI tutor.
-- **VividNotes** (private) - a shared academic study corpus with upload ingestion, moderation, and semantic retrieval on Cloudflare.
-- **Portfolio / Blog Engine** (private source) - my personal website, Markdown blog, and project catalog populated from GitHub project manifests.
+🔒 Private source
 
 <details>
-<summary><strong>Mono: all 35 smaller experiments</strong></summary>
+<summary>🤖 AI & developer tools</summary>
 
-These live together in a private monorepo and range from working toys to unfinished prototypes.
+- 🔁 [ClosedLoop](https://github.com/jstEagle/ClosedLoop) — telemetry-to-fix workflows · early prototype
+- 🌑 **Darkstar** 🔒 — code review and merge-queue prototype
+- ⌨️ [Locked In](https://github.com/jstEagle/lockedin) — a keyboard-first workspace for agents
+- 🎓 [Codex Ambassador / AI 101](https://github.com/jstEagle/CodexAmbassador) — event tools and interactive coding lessons
+- 🧰 [Agents](https://github.com/jstEagle/Agents) — personal agent skills and adaptations
+- 🪙 [Token Max](https://github.com/jstEagle/tokenmaxxx) — compare AI subscriptions within a budget
+- 💡 [Idea Distillery](https://github.com/jstEagle/idea-distillery) — spoken ideas into Markdown plans
+- 🗂️ [Sisyphus](https://github.com/jstEagle/Sisyphus) — a local shelf for Chrome tabs
+- ✍️ **Flow Key** 🔒 — a native macOS writing assistant
+- 📚 **Saelor** 🔒 — shared agent skills for teams
+- 🏛️ **Colosseum Web** 🔒 — leaderboards, replays, and docs
+- 🖼️ **Diffraction demos** 🔒 — banking, commerce, PDF, and support apps
 
-| Project | Experiment |
+</details>
+
+<details>
+<summary>🎨 Worlds, graphics & music</summary>
+
+- 🎮 **Slop DS** 🔒 — experimental Rust 3DS / DS emulation
+- 🔠 [wordsnstuff](https://github.com/jstEagle/wordsnstuff) — ASCII, dither, and WebGL effects
+- 🌀 [In-Between](https://github.com/jstEagle/in-between) — surreal, seeded web worlds
+- 🎛️ [Synthcave](https://github.com/jstEagle/synthcave) — a browser synth and sequencer
+- 🔮 **Marble Melody** 🔒 — MP3s into rolling marble music
+- 📖 [The Library](https://github.com/jstEagle/the-library) — AI-written books, stored as Markdown
+- 🎬 [Brainrot Shorts Generator](https://github.com/jstEagle/Brainrot-Shorts-Generator) — physics simulations turned into short videos
+- 🌌 **Music Constellations / Spotify Galaxy** 🔒 — your Spotify library as a galaxy
+- 👑 **Fluff Lords** 🔒 — royal pet portraits, generated with AI
+
+</details>
+
+<details>
+<summary>📈 Trading & crypto</summary>
+
+- 🦀 [Daedalus Labs / Janus](https://github.com/jstEagle/daedalus-labs) — Rust backtesting and trading research
+- ⚖️ **Rebalancer** 🔒 — Solana liquidity research and paper trading
+- 💸 **Leto** 🔒 — Solana checkout and SDK · devnet MVP
+- 🕯️ [Coindle](https://github.com/jstEagle/Coindle) — a daily historical trading challenge
+- ⛏️ [ORE Bot](https://github.com/jstEagle/Ore-bot) — mining-game allocation experiments
+- 🐬 [DeFi Dolphin](https://github.com/jstEagle/defi-dolphin) — liquidity-provider tools
+- 🐟 [DeFi Tuna airdrop checker](https://github.com/jstEagle/defi-tuna-trumped-checker) — check airdrop weightings
+- 🚀 [Star Atlas market-making bot](https://github.com/jstEagle/staratlas-mm-bot) — marketplace spread experiments
+- 🤖 [Solana trading bot](https://github.com/jstEagle/sol-trading-bot) — trading automation experiments
+
+</details>
+
+<details>
+<summary>☀️ Everyday apps & applied AI</summary>
+
+- 🌱 **Lively** 🔒 — personal life admin with agents
+- 📰 **Personal News** 🔒 — personal journalism, digests, and audio
+- 🩺 **Nestor** 🔒 — GP inbox review · synthetic-data prototype
+- 🍊 **Orange Card** 🔒 — a searchable family recipe book
+- 📦 **Cluttr** 🔒 — scan, value, and resell household items
+- 🏡 **Real-estate video pipeline** 🔒 — property photos into finished videos
+- 🤸 **Rhythm Judge** — gymnastics video feedback · local prototype
+- 🧊 **Secondtime / ‖Time** 🔒 — shared app subscriptions · prototype
+- 📐 **A Level Maths** 🔒 — notes, graphing, flashcards, and tutoring
+- 📝 **VividNotes** 🔒 — a shared academic study corpus
+- 🌐 **Portfolio / Blog Engine** 🔒 — writing and a GitHub-powered project catalog
+
+</details>
+
+<details>
+<summary>🧸 Mono — 35 small experiments 🔒</summary>
+
+Terminal toys, browser games, and unfinished ideas.
+
+| Project | The idea |
 | --- | --- |
-| ascii-weather | Weather forecasts performed as dramatic ASCII theatre. |
-| bug-swarm | Animated bugs swarm source files according to complexity heuristics. |
-| chaos-button | A shared browser button for simulated chaos-engineering theatre. |
-| ci-horse-race | An unfinished terminal horse-racing simulation. |
-| commit-fortune | Deterministic fortune cookies from Git history. |
-| commit-life | Conway's Game of Life seeded by commit history. |
-| commit-oracle | Developer archetypes and prophecies from commit habits. |
-| dependency-graveyard | A haunted-graveyard visualization of ageing npm dependencies. |
-| dev-dungeon | TODO and FIXME comments become dungeon monsters. |
-| dotfile-dungeon | A filesystem-inspired roguelike prototype. |
-| git-pet | A terminal pet sustained by Git activity. |
-| git-seance | Explore deleted files and their history through a terminal séance. |
-| git-wrapped | A self-contained, animated year-in-review for a repository. |
-| hotkey-hero | A terminal rhythm game for real keyboard shortcuts. |
-| keystroke-symphony | Turn typing into music and a live canvas visualization. |
-| merge-conflict-therapist | Walk through real merge conflicts in five theatrical stages. |
-| pixel-war | A shared LAN pixel canvas with timelapse replay. |
-| readme-generator-9000 | Generate exaggerated marketing copy from actual repository statistics. |
-| repo-mood-ring | Render commit-message sentiment as an animated terminal aura. |
-| retro-desk | A simulated 1990s desktop in the browser. |
-| rubber-duck | A terminal debugging companion that asks questions. |
-| rubber-duck-3000 | Local debugging questions, duck personalities, and a problem diary. |
-| rubber-duck-9000 | A browser-based rubber duck using local heuristics. |
-| rubber-duck-api | An HTTP API for increasingly sarcastic debugging prompts. |
-| rubber-ducky | Another terminal duck focused on better questions. |
-| sortaphone | Sorting algorithms turned into music. |
-| stack-trace-sommelier | Stack traces reviewed as though they were wine. |
-| termdeck | Markdown presentations, ANSI slides, and live shell demos. |
-| terminal-cinema | Repository history played as an animated terminal film. |
-| terminal-fireworks | Git commits turned into ASCII fireworks. |
-| terminal-garden | A terminal garden shaped by repository activity and hygiene. |
-| terminal-tarot | Developer-themed tarot readings from repository statistics. |
-| type-arena | Multiplayer typing battles using code snippets. |
-| voice-git | Spoken Git commands with a local browser interface. |
-| web-os | A browser desktop that presents portfolio projects as apps. |
+| 🌦️ ascii-weather | Forecasts as ASCII theatre |
+| 🐛 bug-swarm | Bugs swarm complex source files |
+| 🚨 chaos-button | Simulated chaos across browsers |
+| 🏇 ci-horse-race | Terminal racing · unfinished |
+| 🥠 commit-fortune | Fortune cookies from Git history |
+| 🧬 commit-life | Commits become Game of Life cells |
+| 🔮 commit-oracle | Prophecies from coding habits |
+| 🪦 dependency-graveyard | A cemetery for ageing dependencies |
+| ⚔️ dev-dungeon | TODOs become dungeon monsters |
+| 🗝️ dotfile-dungeon | A filesystem roguelike prototype |
+| 🐣 git-pet | A pet fed by commits |
+| 👻 git-seance | Summon deleted files |
+| 🎁 git-wrapped | Your repository's year in review |
+| 🎸 hotkey-hero | Guitar Hero for keyboard shortcuts |
+| 🎹 keystroke-symphony | Typing becomes music |
+| 🛋️ merge-conflict-therapist | Therapy for merge conflicts |
+| 🎨 pixel-war | A shared LAN pixel canvas |
+| 📣 readme-generator-9000 | Absurdly dramatic repository copy |
+| 💍 repo-mood-ring | Your repository's emotional aura |
+| 💾 retro-desk | A 1990s desktop in the browser |
+| 🦆 rubber-duck | Debugging through questions |
+| 🦆 rubber-duck-3000 | Duck personalities and a problem diary |
+| 🦆 rubber-duck-9000 | A browser duck with local heuristics |
+| 🦆 rubber-duck-api | Sarcastic debugging over HTTP |
+| 🦆 rubber-ducky | Another duck, better questions |
+| 🎵 sortaphone | Sorting algorithms as music |
+| 🍷 stack-trace-sommelier | Stack traces as wine reviews |
+| 🎤 termdeck | Markdown slides in the terminal |
+| 🎞️ terminal-cinema | Git history as a film |
+| 🎆 terminal-fireworks | Commits as ASCII fireworks |
+| 🌻 terminal-garden | A garden fed by repository activity |
+| 🃏 terminal-tarot | Tarot from repository statistics |
+| ⌨️ type-arena | Multiplayer code-typing battles |
+| 🗣️ voice-git | Spoken Git commands |
+| 🖥️ web-os | A portfolio disguised as an OS |
 
 </details>
-
-## What I Reach For
-
-- Rust for simulation cores, trading engines, correctness, and performance-sensitive state machines.
-- TypeScript, React, Next.js, and TanStack Start for products, dashboards, and web experiments.
-- Python and Swift for media pipelines, local tools, native assistants, and research loops.
-- Cloudflare Workers, D1, R2, Supabase, Railway, Vercel, and Postgres for hosted systems.
-- WebGL, Canvas, and Web Audio for interactive graphics and music.
-- Small, observable systems with explicit contracts over hidden magic.
-
-## Earlier Projects
 
 <details>
-<summary><strong>Earlier tools, websites, and experiments</strong></summary>
+<summary>📦 Earlier projects</summary>
 
-- 🧩 [logic-expression-evaluator](https://github.com/jstEagle/logic-expression-evaluator) - Rust expression evaluator.
-- 🗺️ [travelling-salesman](https://github.com/jstEagle/travelling-salesman) - Rust route-optimisation experiments.
-- 🔐 [supply-chain-attack-info](https://github.com/jstEagle/supply-chain-attack-info) - info site for the September 2025 supply-chain attack.
-- 🎓 [CompSci-A-Level-notes](https://github.com/jstEagle/CompSci-A-Level-notes) - computer science notes.
-- 📊 [StatisticDistributionCalculator](https://github.com/jstEagle/StatisticDistributionCalculator) - a statistics homework helper.
-- 📝 [Project Cicero](https://github.com/jstEagle/Project-Cicero) - convert Obsidian Markdown notes to HTML.
-- 🏔️ [Terrain](https://github.com/jstEagle/Terrain) - terrain generation and optimisation experiments.
-- 🚗 [Car Game Collab](https://github.com/jstEagle/CarGameCollab) - a collaborative C# car game.
-- 💬 [Quote Something](https://github.com/jstEagle/Quote-Something) - create and share quote-style posts.
-- 🌐 [CryptoSoc Website](https://github.com/jstEagle/CryptoSocWebsite) - a Svelte website for a crypto society.
-- ✍️ [Personal Blog](https://github.com/jstEagle/Personal_Blog) - an earlier repository for blog posts.
-- **TLDR** (private) - a web app for quickly researching crypto projects.
-- **Cifra** (private source) - a local-first website for password-based file encoding and decoding.
-- **Quota** (private source) - submit and vote on quotes.
-- **Days Since** (private source) - track time since a chosen event.
-- **Solar Anna** (private source) - a Svelte project website for the Solar Anna initiative.
-- **Family Website** (private) - a family information and sharing site.
-- **Wine Event Website** (private) - a site presenting wine-event details.
-- **NFT Collection Calculator** (private) - a Solana NFT trait-analysis project.
-- **BlackJack** (private) - a Java terminal implementation of blackjack.
+- 🧩 [logic-expression-evaluator](https://github.com/jstEagle/logic-expression-evaluator) — Rust logic evaluator
+- 🗺️ [travelling-salesman](https://github.com/jstEagle/travelling-salesman) — route optimisation
+- 🔐 [supply-chain-attack-info](https://github.com/jstEagle/supply-chain-attack-info) — September 2025 attack explainer
+- 🎓 [CompSci-A-Level-notes](https://github.com/jstEagle/CompSci-A-Level-notes) — computer science notes
+- 📊 [StatisticDistributionCalculator](https://github.com/jstEagle/StatisticDistributionCalculator) — statistics homework helper
+- 📝 [Project Cicero](https://github.com/jstEagle/Project-Cicero) — Obsidian Markdown to HTML
+- 🏔️ [Terrain](https://github.com/jstEagle/Terrain) — terrain generation
+- 🚗 [Car Game Collab](https://github.com/jstEagle/CarGameCollab) — a collaborative C# game
+- 💬 [Quote Something](https://github.com/jstEagle/Quote-Something) — share quote-style posts
+- 🌐 [CryptoSoc Website](https://github.com/jstEagle/CryptoSocWebsite) — a crypto society website
+- ✍️ [Personal Blog](https://github.com/jstEagle/Personal_Blog) — earlier writing
+- 🔎 **TLDR** 🔒 — quick crypto-project research
+- 🔑 **Cifra** 🔒 — password-based file encoding
+- 💬 **Quota** 🔒 — submit and vote on quotes
+- 📅 **Days Since** 🔒 — time since an event
+- ☀️ **Solar Anna** 🔒 — a project website
+- 🏠 **Family Website** 🔒 — family information and sharing
+- 🍷 **Wine Event Website** 🔒 — event details
+- 💎 **NFT Collection Calculator** 🔒 — Solana NFT trait analysis
+- 🃏 **BlackJack** 🔒 — blackjack in a Java terminal
 
 </details>
+
+### All projects
+
+A Level Maths · Aberration-bench · Agents · ascii-weather · BlackJack · Brainrot Shorts Generator · bug-swarm · Car Game Collab · chaos-button · ci-horse-race · Cifra · ClosedLoop · Cluttr · Codex Ambassador / AI 101 · Codex Showcase · Coindle · Colosseum · Colosseum Web · commit-fortune · commit-life · commit-oracle · CompSci-A-Level-notes · CryptoSoc Website · Daedalus Labs / Janus · Darkstar · Days Since · DeFi Dolphin · DeFi Tuna airdrop checker · dependency-graveyard · dev-dungeon · Diffraction · Diffraction Demo Bank · Diffraction Demo Commerce · Diffraction Demo Paper · Diffraction Demo Support · dotfile-dungeon · Family Website · Fishtank · Flow Key · Fluff Lords · git-pet · git-seance · git-wrapped · hotkey-hero · Idea Distillery · In-Between · keystroke-symphony · Leto · Lively · Locked In · logic-expression-evaluator · Marble Melody · merge-conflict-therapist · Mono · Music Constellations / Spotify Galaxy · Nestor · NFT Collection Calculator · Orange Card · ORE Bot · Personal Blog · Personal News · pixel-war · Portfolio / Blog Engine · Project Cicero · Quota · Quote Something · readme-generator-9000 · Real-estate video pipeline · Rebalancer · repo-mood-ring · retro-desk · Rhythm Judge · rubber-duck · rubber-duck-3000 · rubber-duck-9000 · rubber-duck-api · rubber-ducky · Saelor · Secondtime / ‖Time · Sisyphus · Slop DS · Solana trading bot · Solar Anna · sortaphone · stack-trace-sommelier · Star Atlas market-making bot · StatisticDistributionCalculator · supply-chain-attack-info · Symphony · Synthcave · termdeck · terminal-cinema · terminal-fireworks · terminal-garden · terminal-tarot · Terrain · The Library · TLDR · Token Max · travelling-salesman · type-arena · VividNotes · voice-git · web-os · Wine Event Website · wordsnstuff
